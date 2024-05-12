@@ -1,0 +1,11 @@
+// productController.js
+
+const Product = require('../models/Product');
+
+exports.getAllProducts = async (req, res) => {
+  // Implement logic to retrieve all products from database
+};
+
+exports.getProductById = async (req, res) => {
+  // Implement logic to retrieve a product by ID from database
+};

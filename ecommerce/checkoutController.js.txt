@@ -1,0 +1,5 @@
+// checkoutController.js
+
+exports.processPayment = async (req, res) => {
+  // Implement logic to process payment (e.g., integrate with payment gateway)
+};

@@ -1,0 +1,11 @@
+// authController.js
+
+const User = require('../models/User');
+
+exports.signup = async (req, res) => {
+  // Implement user signup logic (e.g., create user in database)
+};
+
+exports.login = async (req, res) => {
+  // Implement user login logic (e.g., verify credentials)
+};
